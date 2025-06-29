@@ -1,5 +1,0 @@
-your_project/
-├── chatbot_groq.py
-└── .streamlit/
-    ├── config.toml
-    └── secrets.toml
