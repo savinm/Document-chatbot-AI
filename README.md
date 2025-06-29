@@ -22,7 +22,7 @@ Copy and save the key. It will be displayed only once.
 
 Installation:
 
-Download the Chatbot.zip file to your Windows machine and unzip.
+Download the Chatbot.zip file to your Windows machine and unzip it.
 
 Add your Groq API key to the .streamlit/secrets.toml file.
 
