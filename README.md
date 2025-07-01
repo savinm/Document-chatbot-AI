@@ -32,7 +32,7 @@ Note: The first run may take up to 15 minutes to download and install all requir
 
 Usage
 
-Open a PDF or DOCX file and ask questions about its content.
+Open a PDF, XLSX or DOCX file and ask questions about its content.
 
 If you are not satisfied with the model’s answers, you can fine-tune the response quality by adjusting parameters:
 
