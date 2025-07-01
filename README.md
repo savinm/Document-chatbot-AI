@@ -36,6 +36,6 @@ Open a PDF or DOCX file and ask questions about its content.
 
 If you are not satisfied with the model’s answers, you can fine-tune the response quality by adjusting parameters:
 
-Change the temperature value (line 53)
+Change the temperature value (line 55)
 
-Change the top-k value (line 136)
+Change the top-k value (line 145)
